@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Hema M 👋
+# Hi, I'm Hema M 
 
-### CS Student · Offensive Security & Systems Programming · AI Engineering
+### CSE-Cybersecurity Student · Offensive Security & Systems Programming · AI Engineering
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Cyber+Security)+%40+Amrita+Vishwa+Vidyapeetham;Breaking+Active+Directory%2C+one+dMSA+at+a+time;Writing+compilers+in+C+for+fun;HTB+CPTS+in+progress)](https://git.io/typing-svg)
 
@@ -15,17 +15,16 @@
 
 ### About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore (CGPA 7.83)
-- 🔐 Focused on **offensive security** — Active Directory exploitation, privilege escalation, and detection engineering
-- ⚙️ Also enjoy going low-level: wrote a **C compiler** that emits raw x86-64 assembly, no external libraries
-- 🤖 Building **AI-agent pipelines** (LangGraph, multi-agent systems) for real-world automation problems
-- 🏆 **HTB Certified Penetration Testing Specialist (CPTS)** — in progress
-- 🥇 1st Place, ANVIL Hackathon (Scaler School of Technology) · 🥈 2nd Place, Anokha 2026 Cryptography Scavenger Hunt
-- 📫 Reach me at **hemashankar1912@gmail.com**
+-  B.Tech in **Computer Science & Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore (CGPA 7.83)
+-  Focused on **offensive security** — Active Directory exploitation, privilege escalation, and detection engineering
+-  Also enjoy going low-level: wrote a **C compiler** that emits raw x86-64 assembly, no external libraries
+-  Building **AI-agent pipelines** (LangGraph, multi-agent systems) for real-world automation problems
+-  **HTB Certified Penetration Testing Specialist (CPTS)** — in progress
+-  Reach me at **hemashankar1912@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -47,7 +46,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
@@ -94,7 +93,7 @@ A modular OSINT framework that analyzes phone numbers, SIP logs, and domains to 
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
