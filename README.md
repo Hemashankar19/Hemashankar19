@@ -4,8 +4,6 @@
 
 ### CSE-Cybersecurity Student · Offensive Security & Systems Programming · AI Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Cyber+Security)+%40+Amrita+Vishwa+Vidyapeetham;Breaking+Active+Directory%2C+one+dMSA+at+a+time;Writing+compilers+in+C+for+fun;HTB+CPTS+in+progress)](https://git.io/typing-svg)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-shankar-m-8a7488309)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemashankar1912@gmail.com)
 
