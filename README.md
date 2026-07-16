@@ -13,12 +13,17 @@
 
 ### About Me
 
--  B.Tech in **Computer Science & Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore (CGPA 7.83)
--  Focused on **offensive security** — Active Directory exploitation, privilege escalation, and detection engineering
--  Also enjoy going low-level: wrote a **C compiler** that emits raw x86-64 assembly, no external libraries
--  Building **AI-agent pipelines** (LangGraph, multi-agent systems) for real-world automation problems
--  **HTB Certified Penetration Testing Specialist (CPTS)** — in progress
--  Reach me at **hemashankar1912@gmail.com**
+I'm a Computer Science undergraduate specializing in Cybersecurity, with a particular interest in offensive
+security, Active Directory exploitation, and systems-level programming. My work sits at the intersection of
+breaking systems to understand them and building tools that make them harder to break.
+
+-  Pursuing a **B.Tech in Computer Science and Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore
+-  Research focus on **Active Directory attack paths and detection engineering** — most recently, I reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation vulnerability in an isolated lab environment and authored the corresponding Sigma detection rules, since no mainstream EDR/SIEM covers it
+-  Equally engaged in **systems programming**, having built a compiler in C that emits native x86-64 assembly through a custom 7-stage pipeline, including a register allocator and dedicated optimization passes
+-  Exploring **applied AI**, particularly multi-agent pipelines for automating regulatory and compliance analysis
+-  Currently working toward the **HTB Certified Penetration Testing Specialist (CPTS)** certification
+-  1st Place, ANVIL Hackathon (Scaler School of Technology)
+-  **hemashankar1912@gmail.com**
 
 ---
 
