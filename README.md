@@ -17,9 +17,9 @@ I'm a Computer Science undergraduate specializing in Cybersecurity, with a parti
 security,  and systems-level programming. My work sits at the intersection of breaking systems to understand them and building tools that make them harder to break.
 
 -  Pursuing a **B.Tech in Computer Science and Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore
--  Research focus on **Active Directory attack paths and detection engineering** — most recently, I reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation vulnerability in an isolated lab environment and authored the corresponding Sigma detection rules, since no mainstream EDR/SIEM covers it
+-  Research focus on **Active Directory attack paths and detection engineering**  most recently, I reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation vulnerability in an isolated lab environment and authored the corresponding Sigma detection rules, since no mainstream EDR/SIEM covers it
 -  Equally engaged in **systems programming**, having built a compiler in C that emits native x86-64 assembly through a custom 7-stage pipeline, including a register allocator and dedicated optimization passes
--  Exploring **applied AI**, particularly multi-agent pipelines for automating regulatory and compliance analysis
+-  Exploring **applied AI**, particularly multi agent pipelines for automating regulatory and compliance analysis
 -  Currently working toward the **HTB Certified Penetration Testing Specialist (CPTS)** certification
 -  1st Place, ANVIL Hackathon (Scaler School of Technology)
 -  **hemashankar1912@gmail.com**
@@ -56,7 +56,7 @@ security,  and systems-level programming. My work sits at the intersection of br
 
 **[dMSA BadSuccessor Detection Lab](https://github.com/Hemashankar19/ad-dmsa-privilege-escalation-lab)**
 
-Reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation flaw and its "Ouroboros" variant in an isolated Windows Server 2025 AD lab — escalating from delegated OU rights to Domain Admin. Wrote Sigma detection rules with Wazuh/Splunk equivalents, since no mainstream EDR/SIEM catches this attack out of the box.
+Reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation flaw and its "Ouroboros" variant in an isolated Windows Server 2025 AD lab escalating from delegated OU rights to Domain Admin. Wrote Sigma detection rules with Wazuh/Splunk equivalents, since no mainstream EDR/SIEM catches this attack out of the box.
 
 `PowerShell` `Active Directory` `Sigma` `Splunk`
 
@@ -65,7 +65,7 @@ Reproduced the "BadSuccessor" delegated Managed Service Account privilege-escala
 
 **QuantumLang Compiler**
 
-A compiler written in C for a custom language, emitting native x86-64 assembly through a 7-stage pipeline — no external libraries. Includes a register allocator that reuses registers across forward references, plus optimization passes for instruction fusion and simulated-annealing scheduling, benchmarked against a greedy baseline.
+A compiler written in C for a custom language, emitting native x86-64 assembly through a 7-stage pipeline no external libraries. Includes a register allocator that reuses registers across forward references, plus optimization passes for instruction fusion and simulated annealing scheduling, benchmarked against a greedy baseline.
 
 `C` `Compilers` `x86-64`
 
@@ -85,7 +85,7 @@ A multi-agent LangGraph pipeline that checks contract clauses against the DPDP A
 
 **[CallGraph](https://github.com/Hemashankar19/CallGraph)**
 
-A modular OSINT framework that analyzes phone numbers, SIP logs, and domains to detect spoofing, VoIP scams, and suspicious communication patterns — generating threat scores and summaries.
+A modular OSINT framework that analyzes phone numbers, SIP logs, and domains to detect spoofing, VoIP scams, and suspicious communication patterns generating threat scores and summaries.
 
 `Python` `OSINT` `Threat Detection`
 
