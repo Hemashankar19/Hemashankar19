@@ -13,8 +13,7 @@
 
 ### About Me
 
-I'm a Computer Science undergraduate specializing in Cybersecurity, with a particular interest in offensive
-security,  and systems-level programming. My work sits at the intersection of breaking systems to understand them and building tools that make them harder to break.
+I'm a Computer Science undergraduate specializing in Cybersecurity, with a particular interest in offensive security,  and systems-level programming. My work sits at the intersection of breaking systems to understand them and building tools that make them harder to break.
 
 -  Pursuing a **B.Tech in Computer Science and Engineering (Cyber Security)** at Amrita Vishwa Vidyapeetham, Coimbatore
 -  Research focus on **Active Directory attack paths and detection engineering**  most recently, I reproduced the "BadSuccessor" delegated Managed Service Account privilege-escalation vulnerability in an isolated lab environment and authored the corresponding Sigma detection rules, since no mainstream EDR/SIEM covers it
@@ -22,7 +21,6 @@ security,  and systems-level programming. My work sits at the intersection of br
 -  Exploring **applied AI**, particularly multi agent pipelines for automating regulatory and compliance analysis
 -  Currently working toward the **HTB Certified Penetration Testing Specialist (CPTS)** certification
 -  1st Place, ANVIL Hackathon (Scaler School of Technology)
--  **hemashankar1912@gmail.com**
 
 ---
 
